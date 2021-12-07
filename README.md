@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kuandikov Askar
-- 👀 I’m interested in frontend developing
+- 👀 I’m an aspiring frontend developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
