@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 <hr/>
 Skills and tools
+<hr/>
   <img alt="html5" align="left" width="26px" src="http://s1.iconbird.com/ico/0512/BrushedMetalIcons/file1336753418.png">
   <img alt="css" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
   <img alt="sass" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
