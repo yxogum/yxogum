@@ -2,7 +2,7 @@
 - 👀 I’m an aspiring frontend developer
 - 🌱 I’m currently learning JavaScript
 <hr/>
-###Skills and tools
+  Skills and tools
 
 <img alt="html5" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img alt="css" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
