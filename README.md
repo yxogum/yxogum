@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kuandikov Askar
 - 👀 I’m an aspiring frontend developer
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<hr/>
 
 <!---
 yxogum/yxogum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
